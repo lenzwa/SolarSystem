@@ -1,6 +1,8 @@
 # SolarSystem
 Its been awhile using react
 
+![Screenshot_2](https://github.com/lenzwa/SolarSystem/assets/106243596/82e173cb-f913-4878-8fbd-68dbde04b8b8)
+
 
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/lenzwa" target="_blank">Aisultan</a> 
